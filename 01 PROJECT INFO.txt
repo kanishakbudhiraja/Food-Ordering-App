@@ -1,4 +1,4 @@
-**Developed By Mr.ASR**
+**Developed By Group E**
 
 **Instructions**
 - Install the Requirements: pip install -r requirements.txt
